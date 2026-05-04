@@ -1,7 +1,7 @@
 import type { ChatConfig } from "../types/Message";
  
 const chatbotConfig: ChatConfig = {
-  botName: "TesBot",
+  botName: "ChefBot",
   welcomeMessage:
     "Halo! Saya ChefBot, asisten rekomendasi menu restoran Anda. " +
     "Ceritakan preferensi atau mood makan Anda, dan saya akan " +
