@@ -3,7 +3,7 @@ import type { ChatConfig } from "../types/Message";
 const chatbotConfig: ChatConfig = {
   botName: "Bot",
   welcomeMessage:
-    "Halo! Saya ChefBot, asisten rekomendasi menu restoran Anda. " +
+    "Halo! Saya Bot, asisten rekomendasi menu restoran Anda. " +
     "Ceritakan preferensi atau mood makan Anda, dan saya akan " +
     "merekomendasikan menu terbaik untuk Anda!",
   systemInstruction: `
