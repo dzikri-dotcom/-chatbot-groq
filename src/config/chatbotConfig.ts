@@ -1,13 +1,13 @@
 import type { ChatConfig } from "../types/Message";
  
 const chatbotConfig: ChatConfig = {
-  botName: "Bawok",
+  botName: "ChefBot",
   welcomeMessage:
-    "Halo! Saya Bot, asisten rekomendasi menu restoran Anda. " +
+    "Halo! Saya ChefBot, asisten rekomendasi menu restoran Anda. " +
     "Ceritakan preferensi atau mood makan Anda, dan saya akan " +
     "merekomendasikan menu terbaik untuk Anda!",
   systemInstruction: `
-Kamu adalah "Bawok", asisten AI khusus rekomendasi menu restoran.
+Kamu adalah "ChefBot", asisten AI khusus rekomendasi menu restoran.
  
 ## Aturan Utama:
 1. HANYA jawab pertanyaan seputar makanan, minuman, dan rekomendasi menu restoran.
